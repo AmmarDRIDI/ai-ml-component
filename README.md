@@ -1,7 +1,5 @@
 # ai-ml-component
 
-A repository containing a reproducible machine-learning component for binary classification.
-
 ## ML Component
 
 A reproducible machine-learning component is available in [`ml_component/`](ml_component/README.md).
