@@ -1,3 +1,6 @@
+# ai-ml-component
+
+A repository containing a machine-learning component developed as part of an M1 mini-project.
 
 ## ML Component
 
