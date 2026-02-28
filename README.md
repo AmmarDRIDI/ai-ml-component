@@ -1,5 +1,3 @@
-# ai-ml-component
-a store for smart product developed by pure javascript
 
 ## ML Component
 
